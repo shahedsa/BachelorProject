@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 60,
+            "database": "test",
+            "dialect": "MySQL",
+            "name": "MySQL",
+            "password": "root123",
+            "port": 8889,
+            "server": "localhost",
+            "username": "root"
+        },
+        {
+            "connectionTimeout": 60,
+            "database": "shahedsa",
+            "dialect": "MySQL",
+            "name": "MySqlCon",
+            "password": "q1lSARr0",
+            "port": 3306,
+            "server": "mysql-ait.stud.idi.ntnu.no",
+            "username": "shahedsa"
+        }
+    ]
+}
